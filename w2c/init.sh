@@ -1,0 +1,1 @@
+curl --remote-name-all https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11858/00-097C-0000-0022-6133-9{/ben.txt.gz,/bpy.txt.gz,/guj.txt.gz,/hif.txt.gz,/hin.txt.gz,/kan.txt.gz,/mal.txt.gz,/mar.txt.gz,/pnb.txt.gz,/tam.txt.gz,/tel.txt.gz,/urd.txt.gz}
