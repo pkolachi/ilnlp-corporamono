@@ -1,0 +1,1 @@
+curl --remote-name-all https://traces1.inria.fr/oscar/files/compressed-orig{/as.txt.gz,/bn.txt.gz,/bh.txt.gz,/gom.txt.gz,/gu.txt.gz,/hi.txt.gz,/kn.txt.gz,/ml.txt.gz,/mr.txt.gz,/or.txt.gz,/pa.txt.gz,/sa.txt.gz,/sd.txt.gz,/ta.txt.gz,/te.txt.gz,/ur.txt.gz}
