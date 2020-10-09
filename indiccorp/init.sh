@@ -6,7 +6,7 @@ do
     fname="$lang.tar.xz"
     wget $dlink ;
     tar -xvf $fname ;
-    xz --best data/$lang/$lang.txt ;
+    xz data/$lang/$lang.txt ;
     rm $fname ;
 done
 
