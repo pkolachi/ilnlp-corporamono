@@ -10,6 +10,3 @@ do
     rm $fname ;
 done
 
-mv data/* .
-rm -r data
-
