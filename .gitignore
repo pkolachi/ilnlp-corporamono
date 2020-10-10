@@ -26,3 +26,8 @@ oscar-inria/sd.txt.gz
 oscar-inria/ta.txt.gz
 oscar-inria/te.txt.gz
 oscar-inria/ur.txt.gz
+dakshina/v1.0/*
+deltacorpus-1.1/POS_TAGSET.txt
+deltacorpus-1.1/README_orig.txt
+deltacorpus-1.1/*.txt.gz
+indiccorp/data/*
